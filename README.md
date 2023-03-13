@@ -1,5 +1,5 @@
 # collectionPublic_sunny
-code from Collection application project
+code from [Collection](https://play.google.com/store/apps/details?id=com.eight.collection&pli=1) mobile application project
 
 ```
                     			
