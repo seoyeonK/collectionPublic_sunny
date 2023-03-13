@@ -1,9 +1,9 @@
 # collectionPublic_sunny
-my part of the code from Collection application project
+code from Collection application project
 
 ```
                     			
-   ├── app              				# code about the app
+   ├── app              				# about the app
    │    ├── OOTD            			# OOTD domain folders
    │ 	│   ├── ootdRoute.js          	
    │ 	│   ├── ootdDao.js          	          # OOTD related Database queries
