@@ -1,5 +1,9 @@
-# Seoyeon's codes from [Collection](https://play.google.com/store/apps/details?id=com.eight.collection&pli=1) 
-- Mobile application team project about OOTD (Outfit Of The) Calendar ; users can save photos of their OOTD along with **rates** and default/custom "**tags**". 
+# Collection ; OOTD (Outfit Of The Day) Calendar 
+This is a public repository of my codes extracted from Collection's private repository
+<br><br/>
+## Collection 
+- Android Mobile application (deprecated)  - [original link to service](https://play.google.com/store/apps/details?id=com.eight.collection&pli=1)
+- users can save photos of their OOTD along with **rates** and default/custom "**tags**". 
 - "Tags" are related to :
    - **Color** of the outfit  
    - **Type** of the outfit  (ex: Top-windbreaker jacket, Bottom-jeans, shoes-converse low top)
